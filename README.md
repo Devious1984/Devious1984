@@ -3,4 +3,7 @@
 
 # Gentoo user + CachyOS Linux Kernel
 
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/5776d5e1-28c0-449d-b0dc-620f474c59dd" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/b12febf5-5624-4e61-9fb3-2e71116f5ae6" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/16c6fac8-3b07-417e-adec-3b3aba6e1827" />
+
+
